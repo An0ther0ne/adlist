@@ -15,7 +15,7 @@ Where:
 | -OU: | Organisation Units, separated by a point. |
 | -DC: | Full Domain Controller Name, for example: DC:dc1.example.com |
 | -out:<out.csv> | Optional: specify output file name. 'ADUsers.csv' by default. |
-| -usr:<mask> | An username mask to search for. Default: '*'. Example: '-usr:50*' |
+| -usr:<mask> | An username mask to search for. Default: '\*'. Example: '-usr:50*' |
 
 # AUTHOR
    An0ther0ne
