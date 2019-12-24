@@ -4,7 +4,7 @@ Command-line tools for fetching users from Active Directory and save it to CSV f
 
 # Usage
 
-adusers.exe [options]
+**adusers.exe [options]**
 Where options as follow:
 * -help  This screen.
 * -CN:   Common Name. Optional parameter and may be skipped.
