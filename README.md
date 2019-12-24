@@ -7,8 +7,9 @@ Command-line tools for fetching users from Active Directory and save it to CSV f
 **adusers.exe [options]**
 
 Where:
+
 | Option | Desctiption |
-|---|---|
+| --- | --- |
 | -help | This screen. |
 | -CN: | Common Name. Optional parameter and may be skipped. |
 | -OU: | Organisation Units, separated by a point. |
